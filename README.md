@@ -13,7 +13,7 @@
    <a href="mailto:jefferson.sramos14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="COLOQUE_SEU_LINK_DO_BEHANCE_AQUI" target="_blank">
+  <a href="https://www.behance.net/jeffezramos" target="_blank">
     <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
 </div>
