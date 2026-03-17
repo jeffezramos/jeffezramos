@@ -7,11 +7,14 @@
   <h3><b>Olá! Eu sou o Jefferson Ramos 👋</b></h3>
   <p><em>Desenvolvedor de Interfaces Inteligentes | Unindo Front-End, UX/UI e IA</em></p>
   <br>
-  <a href="https://www.linkedin.com/in/jeffezramos/" target="_blank">
+ <a href="https://www.linkedin.com/in/jeffezramos/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:jefferson.sramos14@gmail.com" target="_blank">
+   <a href="mailto:jefferson.sramos14@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="COLOQUE_SEU_LINK_DO_BEHANCE_AQUI" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"/>
   </a>
 </div>
 
